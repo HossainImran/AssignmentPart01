@@ -1,0 +1,62 @@
+body{
+
+}
+.container{
+	width: 70%;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+.FirstRow{
+	width: 100%;
+	float: left;
+}
+.ColumnFour{
+	width: 30%;
+	background-color: #00a4fffa;
+	height: 100px;
+	margin: 2px;
+	float: left;
+}
+.SecondRow{
+	width: 90.8%;
+	background-color: #00a4fffa;
+	height: 110px;
+	float: left;
+	margin: 2px;
+}
+.ThirdRow{
+	width: 99%;
+	float: left;
+}
+.ColumnSix{
+	width: 45.65%;
+	background-color: #00a4fffa;
+	height: 100px;
+	margin: 2px;
+	float: left;
+}
+.FourthRow{
+	width: 100%;
+	float: left;
+}
+.ColumnEight{
+	width: 60%;
+	background-color: #00a4fffa;
+	height: 100px;
+	margin: 2px;
+	float: left;
+}
+.ColumnTwo{
+	width: 15%;
+	height: 100px;
+	background-color: #00a4fffa;
+	float: left;
+	margin: 2px;
+}
+p{
+	color: white;
+	margin-left: 6px;
+}
